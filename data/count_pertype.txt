@@ -1,0 +1,14 @@
+   4437 music
+   4216 toward
+   3689 exit
+   3560 action
+   3072 delivery
+   1349 aparte
+   1208 object
+   1025 setting
+    772 interaction
+    733 movement
+    730 entrance
+    576 narration
+    455 aggression
+      1 labelGeneric

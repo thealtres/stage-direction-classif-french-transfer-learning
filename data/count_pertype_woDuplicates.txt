@@ -1,0 +1,13 @@
+   2863 music
+   2467 action
+   2144 toward
+   1295 exit
+   1130 object
+    982 setting
+    962 delivery
+    646 entrance
+    583 movement
+    565 interaction
+    554 narration
+    350 aggression
+     72 aparte
